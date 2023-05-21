@@ -1,0 +1,51 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  OHC-FOI: An algorithm for Computing the Ocean Heat Content
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+  - given-names: William
+    family-names: Artiles
+    email: william.roqueta@ufpe.br
+    affiliation: >-
+      Department of Mathematics. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-6329-3355'
+  - given-names: Araujo
+    family-names: Moacyr
+    email: moa.ufpe@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-8462-6446'
+repository-code: 'https://doi.org/10.5281/zenodo.7395260'
+abstract: >-
+  Two Matlab algorithms are presented to compute the Ocean Heat Content by
+  the trapezoidal method, using the variable specific heat and density at the
+  ocean surface. One of the algorithms allows computing the Ocean Heat Content
+  through a fractional order integral.
+
+  Algorithm 1: Computes Ocean Heat Content using a fractional order integral.
+
+  Algorithm 2: Computes Ocean Heat Content
+
+keywords:
+  - Ocean Heat Content
+  - Fractional Order Integral
+  - Trapezoid method
+  - Physical oceanography
+license: MIT
+version: '1.03'
+date-released: '2022-01-07'
