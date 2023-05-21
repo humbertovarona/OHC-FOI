@@ -30,7 +30,7 @@ authors:
       Department of Oceanography. Federal University
       of Pernambuco. Recife-PE. Brazil
     orcid: 'https://orcid.org/0000-0001-8462-6446'
-repository-code: 'https://doi.org/10.5281/zenodo.7395260'
+repository-code: 'https://doi.org/10.5281/zenodo.5899547'
 abstract: >-
   Two Matlab algorithms are presented to compute the Ocean Heat Content by
   the trapezoidal method, using the variable specific heat and density at the
